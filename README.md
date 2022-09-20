@@ -13,6 +13,7 @@ A debug version can be activated to print the Xfinity sequence to implement new 
 
 
 
+
 For testing I used as IR Receiver a VS1838B and as IR Transmitter a common 940nm IR Led. The Arduino board I used is a Arduino Duemilanove (I had it in a drawer).
 
 The IR Receiver LED is attached to PIN2 (with a resistor on power pin 100ohm) and the IR transmitter led  is attached to PIN3 (with a resistor of 100ohm).
